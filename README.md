@@ -10,7 +10,7 @@ Provide real-time analysis by comparing the current data with the same period la
 
 # Tools & Technologies Used:
 
-Power BI: For data visualization, creating dashboards, and interactive reports.
+* Power BI *: For data visualization, creating dashboards, and interactive reports.
 DAX: To create dynamic calculations and measures for cost comparisons, percentages, and identifying trends.
 Excel: For initial data cleaning and preprocessing before importing to Power BI.
 Key Insights:
